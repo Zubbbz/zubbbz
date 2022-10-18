@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zubbbz&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark&bg_color=0d1117" alt="WakaTime"/>
 	<br/><br/>
 	<p align="center">
-		<!-- <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Zubbbz"/> -->
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=Zubbbz" alt="Visitors"/>
 		<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
 		<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.JS">
 		<img src="https://img.shields.io/badge/ts--node-3178C6?style=flat&logo=ts-node&logoColor=white" alt="ts-node">
