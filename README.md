@@ -19,9 +19,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/yogwoggf/emmyfall/pull/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
-2. 🗣 Commented on [#1](https://github.com/yogwoggf/emmyfall/issues/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
-3. 💪 Opened PR [#1](https://github.com/yogwoggf/emmyfall/pull/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
-4. 🗣 Commented on [#34](https://github.com/Derpius/pythonsourceserverdiscordbot/issues/34) in [Derpius/pythonsourceserverdiscordbot](https://github.com/Derpius/pythonsourceserverdiscordbot)
+1. ❗️ Opened issue [#10](https://github.com/Goz3rr/vscode-glualint/issues/10) in [Goz3rr/vscode-glualint](https://github.com/Goz3rr/vscode-glualint)
+2. ❌ Closed PR [#1](https://github.com/yogwoggf/emmyfall/pull/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
+3. 🗣 Commented on [#1](https://github.com/yogwoggf/emmyfall/issues/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
+4. 💪 Opened PR [#1](https://github.com/yogwoggf/emmyfall/pull/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
 5. 🗣 Commented on [#34](https://github.com/Derpius/pythonsourceserverdiscordbot/issues/34) in [Derpius/pythonsourceserverdiscordbot](https://github.com/Derpius/pythonsourceserverdiscordbot)
 <!--END_SECTION:activity-->
