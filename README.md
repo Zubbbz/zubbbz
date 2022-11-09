@@ -1,9 +1,9 @@
 # Hi there 👋
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubbbz&layout=compact&hide_border=true&langs_count=999&theme=dark&bg_color=0d1117" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubbbz&layout=compact&hide_border=true&langs_count=999&theme=dark&bg_color=00000000" alt="Top Languages">
 	<br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zubbbz&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark&bg_color=0d1117" alt="WakaTime"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zubbbz&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark&bg_color=00000000" alt="WakaTime"/>
 	<br/><br/>
 	<p align="center">
 		<img src="https://visitor-badge.laobi.icu/badge?page_id=Zubbbz" alt="Visitors"/>
