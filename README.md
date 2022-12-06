@@ -19,9 +19,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-2. 💪 Opened PR [#2](https://github.com/yogwoggf/emmyfall/pull/2) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
-3. ❗️ Opened issue [#10](https://github.com/Goz3rr/vscode-glualint/issues/10) in [Goz3rr/vscode-glualint](https://github.com/Goz3rr/vscode-glualint)
-4. ❌ Closed PR [#1](https://github.com/yogwoggf/emmyfall/pull/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
-5. 🗣 Commented on [#1](https://github.com/yogwoggf/emmyfall/issues/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
+1. ❌ Closed PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
+2. 💪 Opened PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
+3. 💪 Opened PR [#2](https://github.com/yogwoggf/emmyfall/pull/2) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
+4. ❗️ Opened issue [#10](https://github.com/Goz3rr/vscode-glualint/issues/10) in [Goz3rr/vscode-glualint](https://github.com/Goz3rr/vscode-glualint)
+5. ❌ Closed PR [#1](https://github.com/yogwoggf/emmyfall/pull/1) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
 <!--END_SECTION:activity-->
