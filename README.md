@@ -19,9 +19,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Andrew-Eathan/discord-server-backup-tool/issues/2) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-2. 💪 Opened PR [#2](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/2) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-3. ❌ Closed PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-4. 💪 Opened PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-5. 💪 Opened PR [#2](https://github.com/yogwoggf/emmyfall/pull/2) in [yogwoggf/emmyfall](https://github.com/yogwoggf/emmyfall)
+1. 🗣 Commented on [#65](https://github.com/wallabyjs/console-ninja/issues/65) in [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja)
+2. 🗣 Commented on [#2](https://github.com/Andrew-Eathan/discord-server-backup-tool/issues/2) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
+3. 💪 Opened PR [#2](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/2) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
+4. ❌ Closed PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
+5. 💪 Opened PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
 <!--END_SECTION:activity-->
