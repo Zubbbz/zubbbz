@@ -19,9 +19,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/wallabyjs/console-ninja/issues/65) in [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja)
-2. 🗣 Commented on [#2](https://github.com/Andrew-Eathan/discord-server-backup-tool/issues/2) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-3. 💪 Opened PR [#2](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/2) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-4. ❌ Closed PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
-5. 💪 Opened PR [#1](https://github.com/Andrew-Eathan/discord-server-backup-tool/pull/1) in [Andrew-Eathan/discord-server-backup-tool](https://github.com/Andrew-Eathan/discord-server-backup-tool)
+1. ❗️ Opened issue [#7](https://github.com/TAServers/issues/issues/7) in [TAServers/issues](https://github.com/TAServers/issues)
+2. 🗣 Commented on [#6](https://github.com/TAServers/issues/issues/6) in [TAServers/issues](https://github.com/TAServers/issues)
+3. ❗️ Opened issue [#6](https://github.com/TAServers/issues/issues/6) in [TAServers/issues](https://github.com/TAServers/issues)
+4. ❗️ Opened issue [#5](https://github.com/TAServers/issues/issues/5) in [TAServers/issues](https://github.com/TAServers/issues)
+5. ❗️ Opened issue [#4](https://github.com/TAServers/issues/issues/4) in [TAServers/issues](https://github.com/TAServers/issues)
 <!--END_SECTION:activity-->
