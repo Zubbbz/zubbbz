@@ -12,9 +12,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2843](https://github.com/warpdotdev/Warp/issues/2843) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-2. 🗣 Commented on [#10149](https://github.com/microsoft/terminal/issues/10149) in [microsoft/terminal](https://github.com/microsoft/terminal)
-3. 🗣 Commented on [#10149](https://github.com/microsoft/terminal/issues/10149) in [microsoft/terminal](https://github.com/microsoft/terminal)
+1. 🎉 Merged PR [#1](https://github.com/Zubbbz/obs-StreamFX/pull/1) in [Zubbbz/obs-StreamFX](https://github.com/Zubbbz/obs-StreamFX)
+2. 💪 Opened PR [#1](https://github.com/Zubbbz/obs-StreamFX/pull/1) in [Zubbbz/obs-StreamFX](https://github.com/Zubbbz/obs-StreamFX)
+3. 🗣 Commented on [#2843](https://github.com/warpdotdev/Warp/issues/2843) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 4. 🗣 Commented on [#10149](https://github.com/microsoft/terminal/issues/10149) in [microsoft/terminal](https://github.com/microsoft/terminal)
-5. 🗣 Commented on [#4](https://github.com/TAServers/issues/issues/4) in [TAServers/issues](https://github.com/TAServers/issues)
+5. 🗣 Commented on [#10149](https://github.com/microsoft/terminal/issues/10149) in [microsoft/terminal](https://github.com/microsoft/terminal)
 <!--END_SECTION:activity-->
