@@ -12,9 +12,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/sh-dv/hat.sh/issues/90) in [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh)
+1. 💪 Opened PR [#1](https://github.com/puffyengineer/weatherpuff/pull/1) in [puffyengineer/weatherpuff](https://github.com/puffyengineer/weatherpuff)
 2. 🗣 Commented on [#90](https://github.com/sh-dv/hat.sh/issues/90) in [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh)
-3. 🎉 Merged PR [#1](https://github.com/Zubbbz/obs-StreamFX/pull/1) in [Zubbbz/obs-StreamFX](https://github.com/Zubbbz/obs-StreamFX)
-4. 💪 Opened PR [#1](https://github.com/Zubbbz/obs-StreamFX/pull/1) in [Zubbbz/obs-StreamFX](https://github.com/Zubbbz/obs-StreamFX)
-5. 🗣 Commented on [#2843](https://github.com/warpdotdev/Warp/issues/2843) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+3. 🗣 Commented on [#90](https://github.com/sh-dv/hat.sh/issues/90) in [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh)
+4. 🎉 Merged PR [#1](https://github.com/Zubbbz/obs-StreamFX/pull/1) in [Zubbbz/obs-StreamFX](https://github.com/Zubbbz/obs-StreamFX)
+5. 💪 Opened PR [#1](https://github.com/Zubbbz/obs-StreamFX/pull/1) in [Zubbbz/obs-StreamFX](https://github.com/Zubbbz/obs-StreamFX)
 <!--END_SECTION:activity-->
